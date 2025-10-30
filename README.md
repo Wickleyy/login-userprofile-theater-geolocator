@@ -75,11 +75,18 @@ Untuk menggunakan `geolocator`, pastikan izin lokasi telah ditambahkan:
     flutter run
     ```
 3.  Aplikasi akan dimulai pada halaman **Login** dan di paling bawah ada tulisan warna biru register here yang akan mengarah ke halaman **Signup**.
+<br>
 <img width="442" height="1020" alt="Screenshot 2025-10-29 222419" src="https://github.com/user-attachments/assets/259c7224-ca86-4d3d-ba0d-3e183e609ca4" />
 <img width="445" height="1019" alt="Screenshot 2025-10-29 222439" src="https://github.com/user-attachments/assets/b0ae43a4-3860-41b8-a60b-92a4be079b9a" />
+
+<br>
+<br>
 4.  Setelah *login*, aplikasi akan mengarah ke halaman **Theater**.
+<br>
 <img width="446" height="1015" alt="Screenshot 2025-10-29 222516" src="https://github.com/user-attachments/assets/84f79a62-c378-426c-b801-0d3e4da06411" />
-6.  Saat halaman **Theater** pertama kali dibuka, aplikasi akan **meminta izin lokasi**.
+
+5.  Saat halaman **Theater** pertama kali dibuka, aplikasi akan **meminta izin lokasi**.
 7.  **Setujui (Allow)** permintaan izin tersebut.
 8.  Teks "Loading..." akan berubah menjadi nama kota saat ini.
+<br>
 <img width="443" height="1014" alt="Screenshot 2025-10-29 222503" src="https://github.com/user-attachments/assets/22e0dd2e-e02f-4050-b797-5dc39d83f262" />
